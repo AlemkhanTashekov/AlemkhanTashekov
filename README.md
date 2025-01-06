@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! Я Alemkhan Tashekov
 
-<!--
-**AlemkhanTashekov/AlemkhanTashekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой GitHub профиль!
 
-Here are some ideas to get you started:
+## О себе
+Я разработчик программного обеспечения с опытом работы в веб-разработке и машинном обучении. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+- [Проект 1](https://github.com/AlemkhanTashekov/project1): Описание проекта 1.
+- [Проект 2](https://github.com/AlemkhanTashekov/project2): Описание проекта 2.
+
+## Связаться со мной
+- Email: [example@example.com](mailto:example@example.com)
+- LinkedIn: [AlemkhanTashekov](https://www.linkedin.com/in/alemkhan-tashekov)
