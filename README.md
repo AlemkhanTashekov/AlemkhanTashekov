@@ -2,11 +2,7 @@
 
 <h3 align="center">Welcome to my GitHub profile!
 
-## About myself
-I am an automated control system programmer
-
 - 📬 mail **Tashekov20011129@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
